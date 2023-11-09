@@ -8,7 +8,7 @@ The Centor Criteria is a four-point scoring system, created by Dr. Robert M. Cen
   <li>Presence of Cough</li>
 </ul>
 
-This code is a serverless Azure Function that takes a SymptomModel (containing the symptoms, above) and returns a CentorResultModel containing a confidence interval prediction and recommended course of treatment (e.g. 28% - 35%: Consider rapid strep testing and/or culture).
+This code is a serverless Azure Function that takes a SymptomModel (containing the symptoms, above) and returns a CentorResultModel containing a confidence interval prediction and recommended course of action (e.g. 28% - 35%: Consider rapid strep testing and/or culture).
 <br />
 <br />
 I have also implemented Swagger to document the API: 
