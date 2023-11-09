@@ -13,8 +13,5 @@ This code is a serverless Azure Function that takes a SymptomModel (containing t
 <br />
 I have also implemented Swagger to document the API: 
 
-![image](https://github.com/krochkind/Centor/assets/64739529/119cc9a6-cd87-4098-b707-1722cc0e3d4c)
-![image](https://github.com/krochkind/Centor/assets/64739529/db04b39c-88c1-4021-9ad1-640182859795)
-
-
-
+![image](https://github.com/krochkind/Centor/assets/64739529/379b5444-9f7e-467e-b3f8-9e852915d24d)
+![image](https://github.com/krochkind/Centor/assets/64739529/8e009e64-ef9b-4f4a-bd43-cd981b20caef)
